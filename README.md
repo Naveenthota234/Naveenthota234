@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Naveen thota
-- 👀 I’m interested in front end(Angular and React)
+- 👀 I’m interested in Front end(Angular and React)
 - 🌱 I’m currently learning Node Js
-- 💞️ I’m looking to collaborate on Mean applications
+- 💞️ I’m looking to collaborate on MEAN and MERN applications
 - 📫 How to reach me ...
 
 <!---
